@@ -6,7 +6,8 @@ In this project you will create an application that gives visitors the ability t
 
 The application begins as a working ¡°Hello World¡± endpoint built with Flask and contains a SQLAlchemy database. The third party modules we¡¯ll use are:
 
-Flask SQLAlchemy
-Flask-Login
-Flask-WTF
+* Flask SQLAlchemy
+* Flask-Login
+* Flask-WTF
+
 We will use these modules to create our application featuring the ability for users to create accounts and authenticate in order to post travel destinations.
